@@ -25,8 +25,8 @@ proactive decision-making.
 
 🛠️ Tools & Technologies:
 
-Microsoft Power BI
-Microsoft Excel
-Power Query
-DAX (Data Analysis Expressions)
+- Microsoft Power BI
+- Microsoft Excel
+- Power Query
+- DAX (Data Analysis Expressions)
 
