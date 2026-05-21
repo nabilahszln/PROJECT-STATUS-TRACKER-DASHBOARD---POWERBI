@@ -23,7 +23,8 @@ monitoring and timely updates.
 - To monitor project timelines and stages in order to identify potential delays and support 
 proactive decision-making. 
 
-🛠️ Tools & Technologies
+🛠️ Tools & Technologies:
+
 Microsoft Power BI
 Microsoft Excel
 Power Query
